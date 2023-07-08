@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    /* font-family: 'Space Grotesk', sans-serif; */
+}
+
+.logo {
+    color: #3A3A3A;
+    font-size: 48px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+span {
+    color: #FF408C;
+}
+
+.name {
+    color: #3A3A3A;
+    font-size: 36px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132%;
+    letter-spacing: -0.72px;
+}
+
+.title {
+    color: #FF408C;
+    font-size: 80px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 132%;
+    letter-spacing: -1.6px;
+}
+
+.country {
+    color: #000;
+    font-size: 36px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132%;
+    letter-spacing: -0.72px;
+}
+
+.details {
+    color: #3A3A3A;
+    font-size: 16px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.32px;
+}
+
+.toolsUse {
+    color: #3A3A3A;
+    font-size: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 132%;
+    letter-spacing: -0.4px;
+}
+
+.imageFlex img {
+    width: 50px;
+    height: 40px;
+    object-fit: contain;
+}
+
+/* .imageFlex {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+} */
+
+#html5Resize {
+    width: 80px;
+    margin-left: -15px;
+    height: 40px;
+}
+
+#githubResize {
+    object-fit: cover;
+}
+
+footer {
+    font-family: 'Inter', sans-serif;
+}
