@@ -93,4 +93,11 @@ span {
 
 footer {
     font-family: 'Inter', sans-serif;
+    color: #21243D;
+text-align: center;
+font-size: 14px;
+/* font-family: Inter; */
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
